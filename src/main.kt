@@ -3,7 +3,7 @@ fun main(args: Array<String>){
     var myByte: Byte = 7
     var myShort: Short = 98
     var myInt: Int = 10
-    var myLong = 40234234L
+    var myLong: Long = 40234274L
     var myFloat: Float = .1F
     var myDouble: Double = 234234.2234
     var myBoolean: Boolean = false
